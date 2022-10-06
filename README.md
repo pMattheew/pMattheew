@@ -1,4 +1,4 @@
-<h1> 👋 Hi, I’m Patrick! </h1>
+<h1> 👋🏾 Hi, I’m Patrick! </h1>
 
 <p>I started learning programming in early 2022 and I discovered that it is the job that I don't feel it like a job, because it's awesome!</p>
 
