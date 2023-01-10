@@ -6,7 +6,7 @@
   <section>
     <p>Currently, my major experience came from the project that I developed by myself, the <em>barbershop Dourado's</em>; it consists of:</p>
     <ul>
-        <li><a href="https://pmattheew.github.io/site-bdourados">a website</a> with vanilla HTML, CSS and JavaScript (I'm remaking it with Angular and Tailwind) for publicizing the brand;</li>
+        <li><a href="https://pmattheew.github.io/site-bdourados">a website</a> with vanilla HTML, CSS and JavaScript for publicizing the brand;</li>
         <li><a href="https://app-barbearia-dourados.vercel.app/tabs/pg/login">a mobile application</a> with Ionic Framework based in Angular for client fidelity;</li>
         <li><a href="https://github.com/pmattheew/api-servicos-bdourados">a webservice API</a> in PHP w/ Laravel for conversation between the mobile application and the database in MySQL of the project;</li>
         <li>and <a href="https://github.com/pmattheew/sys-bdourados">a system</a> in C# with .NET Core for content management of the website and the mobile application.</li>
