@@ -42,7 +42,7 @@
   <br>
   <div align="center">
     <img
-     src="https://github-readme-stats-ck48.vercel.app/api/top-langs/?username=pmattheew&hide_border=true&hide=contribs,prs&count_private=true&show_icons=true&border_radius=20&bg_color=30,4F73AC,08004C&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&card_width=400px&layout=compact"
+     src="https://github-readme-stats-ck48.vercel.app/api/top-langs/?username=pmattheew&hide_border=true&count_private=true&show_icons=true&border_radius=20&bg_color=30,4F73AC,08004C&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&card_width=400px&layout=compact"
      alt="Most used languages"
     />
   </div>
