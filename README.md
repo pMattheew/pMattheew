@@ -35,7 +35,7 @@
   <div align="center">
     <img
      align="top"
-     src="https://github-readme-stats-ck48.vercel.app/api/?username=pmattheew&hide_border=true&hide=contribs,prs&count_private=true&show_icons=true&border_radius=20&bg_color=30,4F73AC,08004C&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&card_width=450px"
+     src="https://github-readme-stats-ck48.vercel.app/api/?username=pmattheew&hide_border=true&hide=contribs&count_private=true&show_icons=true&border_radius=20&bg_color=30,4F73AC,08004C&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&card_width=450px"
      alt="GitHub Stats"
     />
   </div>
